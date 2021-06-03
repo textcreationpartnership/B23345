@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dead and alive This ditty out of Glocestershire was sent to London, for to have it put in print, therefore draw neer and listen into this. it doth concern a man that did amiss, and so to shun the anger of his wife, he thought with poyson for to end his life but in the stead of poyson he drunk sack, for which his wife did soundly pay his back to the tune of, Old flesh.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23345</idno><idno type="EEBO-CITATION">99827898</idno>
+  <idno type="VID">200091</idno>
+  <idno type="EEBO-PROQUEST">2240867642</idno>
+  
+            <idno type="STC">Wing F3357</idno>
+            <idno type="PROQUEST">99827898</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827898e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200091)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:210-211)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dead and alive This ditty out of Glocestershire was sent to London, for to have it put in print, therefore draw neer and listen into this. it doth concern a man that did amiss, and so to shun the anger of his wife, he thought with poyson for to end his life but in the stead of poyson he drunk sack, for which his wife did soundly pay his back to the tune of, Old flesh.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for F. G[rove] on Snow-hill. Entered according to order,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "There was a shaving royster".</note>
+                  <note>Signed at end: L.P., i.e. Laurence Price.</note>
+                  <note>Printer's name from and publication date conjectured by Wing.</note>
+                  <note>In two parts; woodcuts at head of each part.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:200091:1"/>
+            <head>Dead and Alive.</head>
+            <argument>
+               <l>This Ditty out of Glocestershire was sent</l>
+               <l>To London, for to have it put in print,</l>
+               <l>Therefore draw neer and listen unto this,</l>
+               <l>It doth concern a man that did amiss,</l>
+               <l>And so to shun the anger of his wife,</l>
+               <l>He thought with poyson for to end his life</l>
+               <l>But in the stead of poyson he drunk Sack,</l>
+               <l>For which his wife did soundly pay his back</l>
+            </argument>
+            <opener>To the Tune of, Old flesh.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of three gentlemen around a table</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>THere was a shaving Royster</l>
+               <l>as I heard many tell,</l>
+               <l>In <hi>Michael Deans</hi> fair Forrest</l>
+               <l>in <hi>Glostershire</hi> did dwell,</l>
+               <l>Some call'd him <hi>William Wiseman</hi>
+               </l>
+               <l>but in that they were to blame.</l>
+               <l>Some call'd him <hi>Leonard Lack-wit</hi>
+               </l>
+               <l>but that was not his name,</l>
+               <l>His name was <hi>Simple Simon,</hi>
+               </l>
+               <l>as it is well approv'd.</l>
+               <l>and amongst his friends &amp; kinsfolks</l>
+               <l>he dearly was belov'd,</l>
+               <l>He capored and vapored,</l>
+               <l>and liv'd a merry life.</l>
+               <l>But yet good man at all times</l>
+               <l>he could not rule his wife.</l>
+            </lg>
+            <lg>
+               <l>His wife she was a woman</l>
+               <l>that loved a cup of Sack</l>
+               <l>And she would tipple soundly</l>
+               <l>behind her husbands back,</l>
+               <l>A bottle she had gotten that</l>
+               <l>would hold two quarts or more,</l>
+               <l>Well fill'd with wine, she hang'd it</l>
+               <l>behind her Chamber door,</l>
+               <l>And she told unto her husband,</l>
+               <l>that it was poyson strong,</l>
+               <l>And bade him not to touch it</l>
+               <l>for fear of doing wrong,</l>
+               <l>If thou drink but one drop on't,</l>
+               <l>quoth she, 'twill cost thy life,</l>
+               <l>Therefore in time take héed,</l>
+               <l>and be ruled by thy wife.</l>
+            </lg>
+            <lg>
+               <l>This <hi>Simons</hi> wife had plenty</l>
+               <l>of fatting Hogs and Pigs,</l>
+               <l>With Géese, Ducks, Hens, &amp; Turkies</l>
+               <l>that laid great store of eggs</l>
+               <l>Both Shéep and such like Cattel</l>
+               <l>fine Ews, and pretty Lambs,</l>
+               <l>Which up and down the Forrest</l>
+               <l>did féed, and suck their Dams,</l>
+               <l>She put trust to her husband,</l>
+               <l>to look unto them all,</l>
+               <l>To kéep them safe from danger,</l>
+               <l>now mark what did befall,</l>
+               <l>He did his best indeavour</l>
+               <l>to shun all kind of strife,</l>
+               <l>And yet through st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>āge misfortune</l>
+               <l>he could not please his wife.</l>
+            </lg>
+            <lg>
+               <l>One morning she sent him</l>
+               <l>to field to kéep her sheep,</l>
+               <l>And charg'd him to be watchful,</l>
+               <l>and take heed he did not sleep,</l>
+               <l>A piece of bread and but<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</l>
+               <l>she gave him in his hand,</l>
+               <l>Whereby she made him promise</l>
+               <l>to do as she did command,</l>
+               <l>But see what happened to him,</l>
+               <l>when he came to the field,</l>
+               <l>He fell asleep while Foxes</l>
+               <l>three of his Lambs had kill'd,</l>
+               <l>This bred a great dissention,</l>
+               <l>and raised a world of strife,</l>
+               <l>Till <hi>Simon</hi> for his fault</l>
+               <l>had beg'd pardon of his wife.</l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:200091:1"/>
+               <head>The second part to the same Tune.
+<figure>
+                     <figDesc>woodcut of gentlewoman</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>woodcut of praying man</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>woodcut of gentleman with sword</figDesc>
+                  </figure>
+               </head>
+               <lg>
+                  <l>ANother day she sent him</l>
+                  <l>her Ducks and Geese to tend</l>
+                  <l>And charged him on her blessing</l>
+                  <l>he should no more offend,</l>
+                  <l>Her Goslings and her Chickens</l>
+                  <l>with him she put in trust,</l>
+                  <l>Who took a stick and told them,</l>
+                  <l>so they we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e twenty <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ust,</l>
+                  <l>But a woful chance befell to</l>
+                  <l>poor <hi>Simon</hi> before night,</l>
+                  <l>For seven of his best Chickens,</l>
+                  <l>were took prisoners by the Kite,</l>
+                  <l>This vext him, and it made him</l>
+                  <l>half weary of his life,</l>
+                  <l>For he knew not what answer</l>
+                  <l>to make unto his wife,</l>
+               </lg>
+               <lg>
+                  <l>Next morning when that <hi>Simon</hi>
+                  </l>
+                  <l>was sent to milk the Cow,</l>
+                  <l>Another strange mis-hap there</l>
+                  <l>was done him by the Sow,</l>
+                  <l>For whilst that he was driving</l>
+                  <l>the little Pigs away,</l>
+                  <l>The Sow came into the dary-house</l>
+                  <l>and swig'd up all the whey,</l>
+                  <l>The Cheese out of the Cheese-fat</l>
+                  <l>she did both tear and hail,</l>
+                  <l>And so threw down the Cream-pot</l>
+                  <l>and made an end of all,</l>
+                  <l>Whereby she burst her belly,</l>
+                  <l>and so she lost her life,</l>
+                  <l>And poor <hi>Simon</hi> knew not what answer</l>
+                  <l>to make unto his wife.</l>
+               </lg>
+               <lg>
+                  <l>when's wife came in the daryhouse</l>
+                  <l>and saw what there was done</l>
+                  <l>A strong and fierce encounter</l>
+                  <l>she presently begun.</l>
+                  <l>She pull'd him by the ears,</l>
+                  <l>and she wrung him by the nose,</l>
+                  <l>And she kickt him on the belly,</l>
+                  <l>while the tears run down his hose.</l>
+                  <l>And she vowed to be revenged</l>
+                  <l>before to morrow day</l>
+                  <l>For all her brood of Chickens</l>
+                  <l>which the Kite had carried away</l>
+                  <l>Poor <hi>Simon</hi> stood amazed</l>
+                  <l>being weary of his life,</l>
+                  <l>For he good man was tired</l>
+                  <l>with his unruly wife.</l>
+               </lg>
+               <lg>
+                  <l>For when that he perceived</l>
+                  <l>his wife in such a rage</l>
+                  <l>Not knowing how nor which way</l>
+                  <l>her fury to asswage,</l>
+                  <l>He cunningly got from her,</l>
+                  <l>and to the Chamber went.</l>
+                  <l>Thinking himself to poyson,</l>
+                  <l>for that was his intent,</l>
+                  <l>So comming to the Bottle</l>
+                  <l>which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> spake of before.</l>
+                  <l>He thought it to be poyson</l>
+                  <l>which hung behind the door.</l>
+                  <l>He vow'd to drink i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> all up</l>
+                  <l>and end his wretched life</l>
+                  <l>Rather than live in thraldome,</l>
+                  <l>with such a cursed wife.</l>
+               </lg>
+               <lg>
+                  <l>So opening of a window which</l>
+                  <l>stood towards the South</l>
+                  <l>He took the Bottle of Sack</l>
+                  <l>and set it to his mouth,</l>
+                  <l>Now will I drink this poyson</l>
+                  <l>quoth he with all my heart,</l>
+                  <l>So that the first draught he drank on't</l>
+                  <l>he swallow d near a quart▪</l>
+                  <l>The second time that he set</l>
+                  <l>the bottle to his snout,</l>
+                  <l>He never left off swigging</l>
+                  <l>till he had suckt all out,</l>
+                  <l>Which done he fel down backward</l>
+                  <l>like one bereft of life,</l>
+                  <l>Crying out, I now am poysoned</l>
+                  <l>by means of my curst wife.</l>
+               </lg>
+               <lg>
+                  <l>Quoth he, I féel the poyson</l>
+                  <l>now run through every vain,</l>
+                  <l>It rumbles in my belly,</l>
+                  <l>and it tickles in my brain,</l>
+                  <l>It wambles in my stomack,</l>
+                  <l>and it malifies my heart</l>
+                  <l>It pierceth through my members,</l>
+                  <l>and yet I feel no smart,</l>
+                  <l>Would all that have curst wives,</l>
+                  <l>would example take hereby,</l>
+                  <l>For I die as swéet a death sure,</l>
+                  <l>as ever man did dye,</l>
+                  <l>'Tis better with such poyson</l>
+                  <l>to end a wretched life,</l>
+                  <l>Than to live and be tormented</l>
+                  <l>with such a wicked wife.</l>
+               </lg>
+               <lg>
+                  <l>Now sée what followed after,</l>
+                  <l>his wife by chance did walk,</l>
+                  <l>And comming by the window,</l>
+                  <l>she heard her <hi>Simon</hi> talk</l>
+                  <l>And thinking on her bottle,</l>
+                  <l>she up the stairs did run,</l>
+                  <l>And came into the Chamber</l>
+                  <l>to sée what he had done.</l>
+                  <l>When as she saw her husband</l>
+                  <l>lying drunk upon his back</l>
+                  <l>And the bottle lying by him</l>
+                  <l>but never a drop of Sack</l>
+                  <l>I am poysoned I am poysoned</l>
+                  <l>quoth he long of my wife</l>
+                  <l>I hope I shall be at quiet,</l>
+                  <l>now I have lost my life.</l>
+               </lg>
+               <lg>
+                  <l>Pox take you are you poysoned</l>
+                  <l>quoth she I now will strive</l>
+                  <l>And do my best indeavour</l>
+                  <l>to make you run alive</l>
+                  <l>With that a quill of powder</l>
+                  <l>she blew up in his nose</l>
+                  <l>Then like a man turn'd frantick</l>
+                  <l>he presently arose</l>
+                  <l>So down the stairs he run straight</l>
+                  <l>into the open stréet</l>
+                  <l>With hooping and with hallowing</l>
+                  <l>to all that he did meet.</l>
+                  <l>And with a loud voice cryed out</l>
+                  <l>I am raised from death to life</l>
+                  <l>By vertue of a powder that</l>
+                  <l>was given me by my wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</l>
+               </lg>
+               <lg>
+                  <l>Some folks that did behold him</l>
+                  <l>were in a grievous fear</l>
+                  <l>For seeing of a mad man</l>
+                  <l>they durst not come him near</l>
+                  <l>He leaped and he skipped</l>
+                  <l>thorow fair and thorow foul</l>
+                  <l>Whilst the people gaz'd upon hin</l>
+                  <l>like Pyes upon an Owl</l>
+                  <l>His wife she followed after</l>
+                  <l>thorow thick and thorow thin</l>
+                  <l>And with a basting cudgel</l>
+                  <l>she soundly badg'd his skin</l>
+                  <l>And thus poor <hi>Simon</hi> cryed out,</l>
+                  <l>I am raised from death to life,</l>
+                  <l>By vertue of a powder <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at</l>
+                  <l>was given me by my w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se.</l>
+               </lg>
+               <lg>
+                  <l>At last a friend of <hi>Simons</hi>
+                  </l>
+                  <l>which was to him some kin</l>
+                  <l>By fair and kind perswasions</l>
+                  <l>open'd door and let him in</l>
+                  <l>He sent for <hi>Simons</hi> wife, and</l>
+                  <l>so made them both good friends,</l>
+                  <l>Who kindly kist each other,</l>
+                  <l>and so all discord ends.</l>
+                  <l>The neighbours all rejoiced</l>
+                  <l>to see them thus agree'd</l>
+                  <l>And like a loving couple</l>
+                  <l>to bed they went with speed.</l>
+                  <l>No doubt but simple <hi>Simon</hi>
+                  </l>
+                  <l>that night well pleased his wif<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>For ever since that time, he</l>
+                  <l>hath lived a quiet life.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>L. P.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>F. G.</hi> on Snow-hill. Entered according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
